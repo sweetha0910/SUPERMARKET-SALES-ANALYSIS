@@ -4,7 +4,7 @@
 
 
 ## 📊 Overview  
-This report provides a **comprehensive analysis** of supermarket sales based on dashboard data. It includes insights into:  
+This report provides a comprehensive analysis from **powerBi** supermarket sales dashboard data. It includes insights into:  
 ✅ Product line sales  
 ✅ Branch performance  
 ✅ Customer segmentation  
