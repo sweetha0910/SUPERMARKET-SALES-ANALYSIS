@@ -1,6 +1,6 @@
 # 🛒 SUPERMARKET SALES ANALYSIS  
 
-![image](https://github.com/user-attachments/assets/b63ca998-6be9-428f-a946-5da21ba7f68b)
+![image](https://github.com/user-attachments/assets/00e0417b-6934-4bea-8071-c3526f454163)
 
 
 ## 📊 Overview  
