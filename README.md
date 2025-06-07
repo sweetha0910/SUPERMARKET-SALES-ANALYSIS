@@ -19,10 +19,10 @@ This report provides a comprehensive analysis from **powerBi** supermarket sales
 3️⃣ **Sales Distribution**: Well spread across branches and product lines.  
 4️⃣ **Daily Sales Trends**: Several peak performance days. 🚀  
 5️⃣ **Payment Methods**: Multiple payment options are widely adopted. 💳💵  
-6️⃣ **Sales by Product Line** 📊 _(Bar Chart)_  
+6️⃣ **Sales by Product Line** 📊 _(Column Chart)_  
    - Sales are relatively balanced across all product lines.  
    - "🩺 Health and Beauty" is the lowest contributor and may need **targeted marketing or promotions**.  
-7️⃣ **Sales by Branch** 🏢 _(Column Chart)_  
+7️⃣ **Sales by Branch** 🏢 _(Bar Chart)_  
    - Giza leads slightly, but overall sales across branches are consistent.  
    - This indicates **operational stability** across locations.  
 8️⃣ **Sales by Customer Type** 👥 _(Donut Chart)_  
@@ -37,7 +37,7 @@ This report provides a comprehensive analysis from **powerBi** supermarket sales
    - Sales trends show fluctuations with clear peaks.  
    - Further analysis needed to understand the **influences** behind spikes (_weekends, marketing events, etc._).  
 1️⃣1️⃣ **Filters** 🎯  
-   - You can **select Gender, Date, and City** to filter data.  
+   - You can **select Gender,Weekday, and City** to filter data.  
    - These filters allow for **deeper analysis and segmentation** of data for **targeted decision-making**.  
 
 ---
