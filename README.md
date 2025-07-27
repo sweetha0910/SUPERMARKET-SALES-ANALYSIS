@@ -1,6 +1,6 @@
 # 🛒 SUPERMARKET SALES ANALYSIS  
 
-![image](https://github.com/user-attachments/assets/24e55e7f-b237-4157-be52-96698cfec50a)
+<img width="927" height="522" alt="image" src="https://github.com/user-attachments/assets/d627f974-4cef-4cad-968e-f8294532ef7b" />
 
 
 ## 📊 Overview  
@@ -22,7 +22,7 @@ This report provides a comprehensive analysis from **powerBi** supermarket sales
 6️⃣ **Sales by Product Line** 📊 _(Column Chart)_  
    - Sales are relatively balanced across all product lines.  
    - "🩺 Health and Beauty" is the lowest contributor and may need **targeted marketing or promotions**.  
-7️⃣ **Sales by Branch** 🏢 _(Bar Chart)_  
+7️⃣ **Sales and Cogs by Branch** 🏢 _(Bar Chart)_  
    - Giza leads slightly, but overall sales across branches are consistent.  
    - This indicates **operational stability** across locations.  
 8️⃣ **Sales by Customer Type** 👥 _(Donut Chart)_  
