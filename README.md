@@ -1,5 +1,8 @@
 # 🛒 SUPERMARKET SALES ANALYSIS  
 
+**📌 Project**: SuperMarket Sales Analysis
+
+**🛠 Tool Used**: Power BI
 
 
 <img width="927" height="522" alt="image" src="https://github.com/user-attachments/assets/d627f974-4cef-4cad-968e-f8294532ef7b" />
